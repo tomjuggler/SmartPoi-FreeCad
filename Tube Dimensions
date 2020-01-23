@@ -1,0 +1,18 @@
+Tube Dimensions:
+
+thin tube OD: 20mm ID: 17mm Length: 
+fat tube OD: 32mm ID: 27.2mm Length: 
+
+Print Dimensions:
+
+fat tube (print needs to fit inside):
+actual(ID of tube): 27.2mm
+old     /  new:
+27.10mm / 27.16mm
+*new one doesn't fit, needs 2 layers of electrical tape on top
+to ensure snug fit - not too bad, going with it
+
+thin tube: (print needs to fit outside)
+actual(OD of tube): 20.00mm
+20.20mm / 20.40mm 
+*new one fits
